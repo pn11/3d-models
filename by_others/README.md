@@ -7,3 +7,4 @@
 - [Foot for PS4 PRO by Marcus24 - Thingiverse](https://www.thingiverse.com/thing:3563960)
 - [Nintendo Switch Portable Charging Stand by Ospi - Thingiverse](https://www.thingiverse.com/thing:2150168)
 - [The geometric stand for MacBook Pro Retina by Thmsdc - Thingiverse](https://www.thingiverse.com/thing:1330829)
+- [Thing files for Interlocking Mac mini Aluminium Unibody Vertical Stand by SDJMcHattie - Thingiverse](https://www.thingiverse.com/thing:1677319/files)
